@@ -55,7 +55,7 @@
 }
 .banner .content h1{
     font-family: 'ICA Rubrik';
-    font-size: 16em;
+    font-size: 12em;
     line-height: 1em;
     color: #25283B;
     position: relative;
@@ -69,7 +69,7 @@
     color: transparent;
 }
 .banner .content h2{
-    font-size: 2em;
+    font-size: 3em;
 }
 .banner .content .model{
     background-image: url(imagenes/model.png);
