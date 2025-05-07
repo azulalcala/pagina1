@@ -53,14 +53,14 @@
     align-items: center;
     z-index: 1;
 }
-.banner .content h1{
+.banner .content h2{
     font-family: 'ICA Rubrik';
     font-size: 16em;
     line-height: 1em;
     color: #25283B;
     position: relative;
 }
-.banner .content h1::after{
+.banner .content h2::after{
     position: absolute;
     inset: 0 0 0 0;
     content: attr(data-content);
